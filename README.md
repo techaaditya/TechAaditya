@@ -435,7 +435,7 @@ def process_nepali_text(text: str) -> Dict[str, Any]:
 
 
 🐍 Interactive GitHub Contribution Snake Animation
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aadityasapkota/aadityasapkota/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aadityasapkota/aadityasapkota/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aadityasapkota/aadityasapkota/output/github-contribution-grid-snake.svg"> </picture> </div>
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techaaditya/TechAaditya/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techaaditya/TechAaditya/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/techaaditya/TechAaditya/output/github-contribution-grid-snake.svg"> </picture> </div>
 
 ## 📖 Data Science Philosophy
 
