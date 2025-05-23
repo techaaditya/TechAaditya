@@ -169,7 +169,6 @@
 </div>
 
 ---
-
 ## 🐍 Interactive GitHub Contribution Animation
 
 <div align="center">
