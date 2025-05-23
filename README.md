@@ -1,4 +1,4 @@
-# <div align="center">✨ Aaditya Sapkota (a.k.a. techaaditya)  <br>Building Intelligence with Code & Data ✨</div>
+# <div align="center">✨ Aaditya Sapkota (a.k.a. techaaditya) | Building Intelligence with Code & Data ✨</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,4,12,18,24&height=200&section=header&text=Crafting%20Intelligence%20with%20Data&fontSize=42&fontAlignY=40" />
@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/techaaditya"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=techaaditya&style=flat&color=blueviolet"></a>
-  <a href="https://twitter.com/techaaditya"><img src="https://img.shields.io/twitter/follow/techaaditya?style=social" alt="Twitter Follow"></a>
+  <a href="https://linkedin.com/in/techaaditya"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=flat" alt="LinkedIn Follow"></a>
 </div>
 
 ---
@@ -43,6 +43,79 @@
 
 ---
 
+## ⚙️ Tech Stack & Tools
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=18&duration=2000&pause=500&color=F7971E&width=600&lines=Python+%F0%9F%90%8D+%7C+PyTorch+%F0%9F%A4%96+%7C+TensorFlow+%F0%9F%A4%97+%7C+Transformers+%F0%9F%A7%AA+%7C+Jupyter+%F0%9F%93%9A+%7C+Pandas+%F0%9F%90%BC+%7C+Numpy+%F0%9F%90%9C+%7C+Scikit-learn+%F0%9F%8C%8F+%7C+Docker+%F0%9F%9A%80+%7C+Linux+%F0%9F%90%B2+%7C+GitHub+%F0%9F%91%BB" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🏥 Smart Health Band Analytics</h3>
+        <div align="center">
+          <a href="https://github.com/techaaditya/smart-health-band" target="_blank">
+            <img src="https://raw.githubusercontent.com/techaaditya/techaaditya/main/assets/health-band-project.png" alt="Health Band Project" width="100%" />
+          </a>
+          <br>
+          <a href="https://github.com/techaaditya/smart-health-band" target="_blank">
+            <img src="https://img.shields.io/badge/REPO-181717?style=flat-square&logo=github&logoColor=white" />
+          </a>
+          <p>Real-time health monitoring with <strong>predictive analytics</strong> and personalized wellness recommendations.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🎯 Bagchal AI Engine</h3>
+        <div align="center">
+          <a href="https://github.com/techaaditya/bagchal-ai" target="_blank">
+            <img src="https://raw.githubusercontent.com/techaaditya/techaaditya/main/assets/bagchal-ai-project.png" alt="Bagchal AI Project" width="100%" />
+          </a>
+          <br>
+          <a href="https://github.com/techaaditya/bagchal-ai" target="_blank">
+            <img src="https://img.shields.io/badge/REPO-181717?style=flat-square&logo=github&logoColor=white" />
+          </a>
+          <p>Traditional Nepali game enhanced with <strong>intelligent AI opponent</strong> using minimax and neural networks.</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">📝 Nepali Spellchecker Pro</h3>
+        <div align="center">
+          <a href="https://github.com/techaaditya/nepali-spellchecker" target="_blank">
+            <img src="https://raw.githubusercontent.com/techaaditya/techaaditya/main/assets/spellchecker-project.png" alt="Spellchecker Project" width="100%" />
+          </a>
+          <br>
+          <a href="https://github.com/techaaditya/nepali-spellchecker" target="_blank">
+            <img src="https://img.shields.io/badge/REPO-181717?style=flat-square&logo=github&logoColor=white" />
+          </a>
+          <p>Advanced NLP system for <strong>Nepali language processing</strong> with contextual error correction and suggestions.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🎭 Nepali Poetic GPT</h3>
+        <div align="center">
+          <a href="https://github.com/techaaditya/nepali-poetic-gpt" target="_blank">
+            <img src="https://raw.githubusercontent.com/techaaditya/techaaditya/main/assets/poetic-gpt-project.png" alt="Poetic GPT Project" width="100%" />
+          </a>
+          <br>
+          <a href="https://github.com/techaaditya/nepali-poetic-gpt" target="_blank">
+            <img src="https://img.shields.io/badge/REPO-181717?style=flat-square&logo=github&logoColor=white" />
+          </a>
+          <p><strong>Fine-tuned DistilGPT2</strong> on curated Nepali poems with rhythm analysis and metaphor understanding.</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 🐍 Interactive GitHub Contribution Snake Animation
 
 <div align="center">
@@ -52,26 +125,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/techaaditya/TechAaditya/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
----
-
-## ⚡ Tech Stack & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,go,html,css,react,nodejs,express,tailwind,bootstrap,pyTorch,tensorflow,keras,jupyter,pandas,numpy,scikit-learn,opencv,postgres,mongodb,firebase,redis,git,github,linux,docker,aws,gcp,vscode,figma" />
-</div>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-| ------- | ----------- | ---- |
-| [Smart Health Band](https://github.com/techaaditya/smart-health-band) | Real-time health analytics & predictive wellness recommendations | Python, ML, Firebase |
-| [Bagchal AI](https://github.com/techaaditya/bagchal-ai) | AI-powered Nepali board game with neural and minimax | Python, AI, GameDev |
-| [Nepali Spellchecker](https://github.com/techaaditya/nepali-spellchecker) | Advanced NLP for Nepali with error correction | Python, NLP, Transformers |
-| [Nepali Poetic GPT](https://github.com/techaaditya/nepali-poetic-gpt) | Fine-tuned GPT-2 for Nepali poetry & rhyme analysis | PyTorch, NLP, GenAI |
-| [MeroNotes](https://github.com/techaaditya/meronotes) | Community-driven academic notes platform | React, Node, MongoDB |
 
 ---
 
@@ -128,34 +181,6 @@ journey
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How to Fine-tune LLMs for Nepali Language (2025)](https://techaaditya.com.np/blog/llm-finetune-nepali)
-- [Zero to Hero in Data Science: My Journey](https://techaaditya.com.np/blog/ds-journey)
-- [Open Source AI for Nepali NLP](https://techaaditya.com.np/blog/opensource-nepali-nlp)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 💬 Ask Me About
-
-- Machine Learning, Deep Learning & NLP
-- Generative AI, LLMs & Prompt Engineering
-- Mathematical Modeling & Analytics
-- Nepali Language Processing & Open Source AI
-- Data Science Careers, Research, and Community
-
----
-
-## 📈 GitHub Trophy Cabinet
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=techaaditya&theme=radical&no-bg=true&no-frame=true&column=7" width="100%" />
-</div>
-
----
-
 ## ✍️ Code Snippet of the Month
 
 <details>
@@ -197,7 +222,6 @@ def refine_dataset(df, target_column=None):
   <a href="https://linkedin.com/in/techaaditya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:techaaditya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://techaaditya.com.np"><img src="https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website" /></a>
-  <a href="https://twitter.com/techaaditya"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="https://kaggle.com/techaaditya"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
   <a href="https://dev.to/techaaditya"><img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV Community" /></a>
 </div>
