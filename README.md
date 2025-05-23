@@ -1,18 +1,18 @@
 # <div align="center">✨ Aaditya Sapkota | Curious Builder of Intelligence ✨</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,4,12,18,24&height=200&section=header&text=Crafting%20Intelligence%20with%20Data&fontSize=42&fontAlignY=36&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,4,12,18,24&height=200&section=header&text=Crafting%20Intelligence%20with%20Data&fontSize=42&fontAlignY=40" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=700&height=60&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Generative+AI+Explorer;Mathematical+Problem+Solver;Event+Manager+%26+Tech+Builder;Turning+Data+into+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=700&height=60&lines=Aspiring+Data+Scientist;Generative+AI+Explorer;Mathematics+Enthusiast;Turning+Data+into+Intelligence" />
 </p>
 
 ## 🧠 The Mind Behind the Code
 
-> "I believe that every dataset tells a story, every algorithm solves a puzzle, and every model can change the world. My mission is to bridge the gap between mathematical elegance and real-world impact through intelligent systems."
+> "I believe that every dataset tells a story, every algorithm solves a puzzle, and every model can change the world. My mission is to bridge the gap between mathematical elegance and real-world impact."
 
-Hey Coders! 👋 I'm **Aaditya Sapkota**, an aspiring Data Scientist passionate about leveraging **Mathematics**, **Machine Learning**, and **Generative AI** to solve real-world problems. I approach every challenge with three core beliefs:
+Hey Coders! 👋 I'm **Aaditya Sapkota**, an aspiring Data Scientist passionate about leveraging **Mathematics**, **Machine Learning**, and **Generative AI** to solve real-world problems. I approach every challenge with curiosity, creativity, and a drive to make a difference.
 
 - **Curiosity** drives discovery
 - **Mathematics** reveals truth  
@@ -142,12 +142,12 @@ journey
     <td width="50%">
       <h3 align="center">🏥 Smart Health Band Analytics</h3>
       <div align="center">  
-        <a href="https://github.com/aadityasapkota/smart-health-band" target="_blank">
-          <img src="https://raw.githubusercontent.com/aadityasapkota/aadityasapkota/main/assets/health-band-project.png" alt="Health Band Project" width="100%" />
+        <a href="https://github.com/techaaditya/smart-health-band" target="_blank">
+          <img src="https://raw.githubusercontent.com/techaaditya/techaaditya/main/assets/health-band-project.png" alt="Health Band Project" width="100%" />
         </a>
         <br>
         <p>
-          <a href="https://github.com/aadityasapkota/smart-health-band" target="_blank">
+          <a href="https://github.com/techaaditya/smart-health-band" target="_blank">
             <img src="https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
           </a>  
           <a href="#" target="_blank">
@@ -160,12 +160,12 @@ journey
     <td width="50%">
       <h3 align="center">🎯 Bagchal AI Engine</h3>
       <div align="center">  
-        <a href="https://github.com/aadityasapkota/bagchal-ai" target="_blank">
-          <img src="https://raw.githubusercontent.com/aadityasapkota/aadityasapkota/main/assets/bagchal-ai-project.png" alt="Bagchal AI Project" width="100%" />
+        <a href="https://github.com/techaaditya/bagchal-ai" target="_blank">
+          <img src="https://raw.githubusercontent.com/techaaditya/techaaditya/main/assets/bagchal-ai-project.png" alt="Bagchal AI Project" width="100%" />
         </a>
         <br>
         <p>
-          <a href="https://github.com/aadityasapkota/bagchal-ai" target="_blank">
+          <a href="https://github.com/techaaditya/bagchal-ai" target="_blank">
             <img src="https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
           </a>  
           <a href="#" target="_blank">
@@ -180,12 +180,12 @@ journey
     <td width="50%">
       <h3 align="center">📝 Nepali Spellchecker Pro</h3>
       <div align="center">  
-        <a href="https://github.com/aadityasapkota/nepali-spellchecker" target="_blank">
-          <img src="https://raw.githubusercontent.com/aadityasapkota/aadityasapkota/main/assets/spellchecker-project.png" alt="Spellchecker Project" width="100%" />
+        <a href="https://github.com/techaaditya/nepali-spellchecker" target="_blank">
+          <img src="https://raw.githubusercontent.com/techaaditya/techaaditya/main/assets/spellchecker-project.png" alt="Spellchecker Project" width="100%" />
         </a>
         <br>
         <p>
-          <a href="https://github.com/aadityasapkota/nepali-spellchecker" target="_blank">
+          <a href="https://github.com/techaaditya/nepali-spellchecker" target="_blank">
             <img src="https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
           </a>  
           <a href="#" target="_blank">
@@ -198,12 +198,12 @@ journey
     <td width="50%">
       <h3 align="center">🎭 Nepali Poetic GPT</h3>
       <div align="center">  
-        <a href="https://github.com/aadityasapkota/nepali-poetic-gpt" target="_blank">
-          <img src="https://raw.githubusercontent.com/aadityasapkota/aadityasapkota/main/assets/poetic-gpt-project.png" alt="Poetic GPT Project" width="100%" />
+        <a href="https://github.com/techaaditya/nepali-poetic-gpt" target="_blank">
+          <img src="https://raw.githubusercontent.com/techaaditya/techaaditya/main/assets/poetic-gpt-project.png" alt="Poetic GPT Project" width="100%" />
         </a>
         <br>
         <p>
-          <a href="https://github.com/aadityasapkota/nepali-poetic-gpt" target="_blank">
+          <a href="https://github.com/techaaditya/nepali-poetic-gpt" target="_blank">
             <img src="https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
           </a>  
           <a href="#" target="_blank">
@@ -260,18 +260,18 @@ Intelligence Architecture
 ## 🕹️ Interactive Data Visualization
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/aadityasapkota/aadityasapkota/output/github-contribution-grid-snake.svg" alt="Data Snake Animation" />
+  <img width="100%" src="https://raw.githubusercontent.com/techaaditya/TechAaditya/output/github-contribution-grid-snake.svg" alt="Data Snake Animation" />
 </div>
 
 ## 📈 Impact & Growth Metrics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-phi-eight.vercel.app/?user=aadityasapkota&theme=radical&border=7F3FBF&background=0D1117&stroke=7F3FBF&fire=FF5700&ring=5FDBFF" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aadityasapkota&show_icons=true&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=5FDBFF&icon_color=FF5700" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats-phi-eight.vercel.app/?user=techaaditya&theme=radical&border=7F3FBF&background=0D1117&stroke=7F3FBF&fire=FF5700&ring=5FDBFF" alt="GitHub Streak" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=techaaditya&show_icons=true&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=5FDBFF&icon_color=FF5700" alt="GitHub Stats" width="400"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityasapkota&layout=compact&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=5FDBFF" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techaaditya&layout=compact&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=5FDBFF" alt="Top Languages" width="400"/>
 </div>
 
 ## 💡 Code Nuggets & Intelligent Patterns
@@ -411,21 +411,21 @@ def process_nepali_text(text: str) -> Dict[str, Any]:
   <tr>
     <td>
       <div align="center">
-        <img src="https://raw.githubusercontent.com/aadityasapkota/aadityasapkota/main/assets/simplicity.svg" width="80px" />
+        <img src="https://raw.githubusercontent.com/techaaditya/techaaditya/main/assets/simplicity.svg" width="80px" />
         <h3>🎯 Simplicity</h3>
         <p>Building elegant solutions that solve complex problems with mathematical precision</p>
       </div>
     </td>
     <td>
       <div align="center">
-        <img src="https://raw.githubusercontent.com/aadityasapkota/aadityasapkota/main/assets/security.svg" width="80px" />
+        <img src="https://raw.githubusercontent.com/techaaditya/techaaditya/main/assets/security.svg" width="80px" />
         <h3>🔐 Security</h3>
         <p>Protecting data privacy and ensuring ethical AI practices in every model</p>
       </div>
     </td>
     <td>
       <div align="center">
-        <img src="https://raw.githubusercontent.com/aadityasapkota/aadityasapkota/main/assets/creativity.svg" width="80px" />
+        <img src="https://raw.githubusercontent.com/techaaditya/techaaditya/main/assets/creativity.svg" width="80px" />
         <h3>🧬 Creativity</h3>
         <p>Innovating at the intersection of art, science, and intelligent systems</p>
       </div>
@@ -435,7 +435,13 @@ def process_nepali_text(text: str) -> Dict[str, Any]:
 
 
 🐍 Interactive GitHub Contribution Snake Animation
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techaaditya/TechAaditya/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techaaditya/TechAaditya/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/techaaditya/TechAaditya/output/github-contribution-grid-snake.svg"> </picture> </div>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techaaditya/TechAaditya/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techaaditya/TechAaditya/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/techaaditya/TechAaditya/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ## 📖 Data Science Philosophy
 
@@ -470,7 +476,7 @@ def process_nepali_text(text: str) -> Dict[str, Any]:
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20future%20belongs%20to%20those%20who%20understand%20that%20data%20is%20the%20new%20language%20of%20intelligence&author=Aaditya%20Sapkota" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20future%20belongs%20to%20those%20who%20understand%20that%20data%20is%20the%20new%20language%20of%20progress." />
 </div>
 
 <div align="center">
