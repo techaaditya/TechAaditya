@@ -40,70 +40,71 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techaaditya&theme=github_dark" width="48%" />
 </div>
 
-## ⚡ Tech Stack & Tools
+## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      <br><b>Python</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="65" height="65" />
-      <br><b>TensorFlow</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="65" height="65" />
-      <br><b>PyTorch</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="65" height="65" />
-      <br><b>Jupyter</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="65" height="65" />
-      <br><b>Pandas</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="65" height="65" />
-      <br><b>NumPy</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="65" height="65" />
-      <br><b>Scikit-learn</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="65" height="65" />
-      <br><b>OpenCV</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br><b>JavaScript</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-      <br><b>GitHub</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="65" height="65" />
-      <br><b>Docker</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="65" height="65" />
-      <br><b>Linux</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="65" height="65" />
-      <br><b>Firebase</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/huggingface/transformers/main/docs/source/imgs/transformers_logo_name.svg" alt="Transformers" width="65" height="65" />
-      <br><b>Transformers</b>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🏥 Smart Health Band Analytics</h3>
+        <div align="center">
+          <a href="https://github.com/techaaditya/smart-health-band" target="_blank">
+            <img src="https://raw.githubusercontent.com/techaaditya/techaaditya/main/assets/health-band-project.png" alt="Health Band Project" width="100%" />
+          </a>
+          <br>
+          <a href="https://github.com/techaaditya/smart-health-band" target="_blank">
+            <img src="https://img.shields.io/badge/REPO-181717?style=flat-square&logo=github&logoColor=white" />
+          </a>
+          <p>Real-time health monitoring with <strong>predictive analytics</strong> and personalized wellness recommendations.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🎯 Bagchal AI Engine</h3>
+        <div align="center">
+          <a href="https://github.com/techaaditya/bagchal-ai" target="_blank">
+            <img src="https://raw.githubusercontent.com/techaaditya/techaaditya/main/assets/bagchal-ai-project.png" alt="Bagchal AI Project" width="100%" />
+          </a>
+          <br>
+          <a href="https://github.com/techaaditya/bagchal-ai" target="_blank">
+            <img src="https://img.shields.io/badge/REPO-181717?style=flat-square&logo=github&logoColor=white" />
+          </a>
+          <p>Traditional Nepali game enhanced with <strong>intelligent AI opponent</strong> using minimax and neural networks.</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">📝 Nepali Spellchecker Pro</h3>
+        <div align="center">
+          <a href="https://github.com/techaaditya/nepali-spellchecker" target="_blank">
+            <img src="https://raw.githubusercontent.com/techaaditya/techaaditya/main/assets/spellchecker-project.png" alt="Spellchecker Project" width="100%" />
+          </a>
+          <br>
+          <a href="https://github.com/techaaditya/nepali-spellchecker" target="_blank">
+            <img src="https://img.shields.io/badge/REPO-181717?style=flat-square&logo=github&logoColor=white" />
+          </a>
+          <p>Advanced NLP system for <strong>Nepali language processing</strong> with contextual error correction and suggestions.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🎭 Nepali Poetic GPT</h3>
+        <div align="center">
+          <a href="https://github.com/techaaditya/nepali-poetic-gpt" target="_blank">
+            <img src="https://raw.githubusercontent.com/techaaditya/techaaditya/main/assets/poetic-gpt-project.png" alt="Poetic GPT Project" width="100%" />
+          </a>
+          <br>
+          <a href="https://github.com/techaaditya/nepali-poetic-gpt" target="_blank">
+            <img src="https://img.shields.io/badge/REPO-181717?style=flat-square&logo=github&logoColor=white" />
+          </a>
+          <p><strong>Fine-tuned DistilGPT2</strong> on curated Nepali poems with rhythm analysis and metaphor understanding.</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 
 ## 🚀 Featured Projects
 
