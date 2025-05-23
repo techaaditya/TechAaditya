@@ -157,7 +157,7 @@
 
 ---
 
-## 🐍 Interactive GitHub Contribution Snake Animation
+## 🐍 Interactive GitHub Contribution Animation
 
 <div align="center">
   <picture>
@@ -166,70 +166,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/techaaditya/TechAaditya/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
----
-
-## 📚 Knowledge Map
-
-<details>
-  <summary>🧠 My AI/ML & Data Science Journey (Click to Expand)</summary>
-
-```mermaid
-journey
-    title Aaditya's Intelligence Evolution Path
-    section Foundation
-      Discovered Data Science: 5: Me
-      Built First ML Models: 4: Me
-      Mastered Mathematical Foundations: 5: Me
-    section Innovation
-      Smart Health Band Project: 5: Me
-      Bagchal AI Game Engine: 5: Me
-      Nepali Spellchecker Development: 4: Me
-    section Research & Impact
-      Research in AI & Neuroscience: 5: Me, Future
-      Train Nepali Language Models: 4: Me, Future
-      Publish Research Papers: 5: Me, Future
-    section Vision
-      Advanced AI Systems: 3: Me, Future
-      Open Source Contributions: 4: Me, Future
-      Mentoring Next Generation: 3: Me, Future
-```
-</details>
-
----
-
-## ✍️ Code Snippet of the Month
-
-<details>
-  <summary>🧠 Elegant Data Processing Pipeline (Pandas)</summary>
-
-```python
-def refine_dataset(df, target_column=None):
-    """Transform raw data into intelligence-ready format."""
-    return (df
-            # Data quality assurance
-            .pipe(lambda d: d[d['status'] == 'valid'])
-            # Feature engineering with domain knowledge
-            .assign(
-                intelligence_score=lambda d: d['raw_score'] * 0.8 + d['context_bonus'],
-                normalized_features=lambda d: StandardScaler().fit_transform(d.select_dtypes(include=[np.number]))
-            )
-            # Intelligent grouping and aggregation
-            .groupby('category')
-            .agg({
-                'intelligence_score': ['mean', 'std', 'count'],
-                'timestamp': ['min', 'max'],
-                target_column or 'target': 'first'
-            })
-            # Statistical significance testing
-            .pipe(lambda d: d[d[('intelligence_score', 'count')] >= 30])
-            # Confidence interval calculation
-            .assign(
-                confidence_lower=lambda d: d[('intelligence_score', 'mean')] - 1.96 * d[('intelligence_score', 'std')],
-                confidence_upper=lambda d: d[('intelligence_score', 'mean')] + 1.96 * d[('intelligence_score', 'std')]
-            ))
-```
-</details>
 
 ---
 
