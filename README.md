@@ -1,196 +1,479 @@
-<div align="center">✨ Aaditya Sapkota | Curious Builder of Intelligence ✨</div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,4,12,18&height=200&section=header&text=Building%20Intelligent%20Solutions&fontSize=42&fontAlignY=36&animation=fadeIn" width="100%"/> </div> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=700&height=60&lines=Data+Scientist+in+Making;AI+%26+ML+Enthusiast;Mathematical+Problem+Solver;Nepali+Language+Processing+Pioneer;Event+Manager+%26+Tech+Creator;Always+Learning%2C+Always+Growing" alt="Typing SVG" /> </p> <div align="center"> <img src="https://komarev.com/ghpvc/?username=aadityasapkota&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/aadityasapkota?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" /> <img src="https://img.shields.io/github/stars/aadityasapkota?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" /> </div>
-🧠 The Philosophy Behind My Intelligence
-I believe that true intelligence isn't just about processing data—it's about understanding patterns, creating meaning, and building solutions that enhance human potential while preserving our cultural heritage.
+# <div align="center">✨ Aaditya Sapkota | Curious Builder of Intelligence ✨</div>
 
-Hey Coders! 👋 I'm Aaditya Sapkota, an aspiring Data Scientist passionate about leveraging Mathematics, Machine Learning, and Generative AI to solve real-world problems. My journey combines rigorous mathematical foundations with creative problem-solving, always seeking to bridge the gap between theoretical knowledge and practical applications.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,4,12,18,24&height=200&section=header&text=Crafting%20Intelligence%20with%20Data&fontSize=42&fontAlignY=36&animation=fadeIn" width="100%"/>
+</div>
 
-Current Focus:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=700&height=60&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Generative+AI+Explorer;Mathematical+Problem+Solver;Event+Manager+%26+Tech+Builder;Turning+Data+into+Insights" alt="Typing SVG" />
+</p>
 
-🔭 Working on projects related to data mining and mathematical modeling
+## 🧠 The Mind Behind the Code
 
-🌱 Diving deep into Machine Learning algorithms and exploring GenAI potentials
+> "I believe that every dataset tells a story, every algorithm solves a puzzle, and every model can change the world. My mission is to bridge the gap between mathematical elegance and real-world impact through intelligent systems."
 
-👯 Looking to collaborate on open-source AI and Data Science projects
+Hey Coders! 👋 I'm **Aaditya Sapkota**, an aspiring Data Scientist passionate about leveraging **Mathematics**, **Machine Learning**, and **Generative AI** to solve real-world problems. I approach every challenge with three core beliefs:
 
-🤔 Seeking mentorship and insights to enhance my ML/AI skills
+- **Curiosity** drives discovery
+- **Mathematics** reveals truth  
+- **Intelligence** amplifies human potential
 
-💬 Ask me about Data Science, Mathematics, or event management tips!
+My journey isn't just about building models—it's about creating intelligent solutions that make a meaningful difference in people's lives.
 
-⚡ Fun fact: I'm an event manager who makes data-driven decisions even in competitions! 🎉
+## 🔬 Current Research & Focus
 
-🔬 Tech Arsenal & Intelligence Stack
-<table> <tr> <td align="center" width="96"> <a href="javascript:void(0)"> <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /> </a> <br>Python </td> <td align="center" width="96"> <a href="javascript:void(0)"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="65" height="65" /> </a> <br>TensorFlow </td> <td align="center" width="96"> <a href="javascript:void(0)"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="65" height="65" /> </a> <br>PyTorch </td> <td align="center" width="96"> <a href="javascript:void(0)"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="65" height="65" /> </a> <br>Pandas </td> <td align="center" width="96"> <a href="javascript:void(0)"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="65" height="65" /> </a> <br>NumPy </td> <td align="center" width="96"> <a href="javascript:void(0)"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="65" height="65" /> </a> <br>Scikit-learn </td> </tr> <tr> <td align="center" width="96"> <a href="javascript:void(0)"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="65" height="65" /> </a> <br>Jupyter </td> <td align="center" width="96"> <a href="javascript:void(0)"> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /> </a> <br>JavaScript </td> <td align="center" width="96"> <a href="javascript:void(0)"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="65" height="65" /> </a> <br>Firebase </td> <td align="center" width="96"> <a href="javascript:void(0)"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="65" height="65" /> </a> <br>Git </td> <td align="center" width="96"> <a href="javascript:void(0)"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width="65" height="65" /> </a> <br>LaTeX </td> <td align="center" width="96"> <a href="javascript:void(0)"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="65" height="65" /> </a> <br>MATLAB </td> </tr> </table>
-📊 The Intelligence Journey Map
-text
+- 🔭 **Working on:** Advanced data mining techniques and mathematical modeling for health analytics
+- 🌱 **Deep diving into:** Machine Learning algorithms, GenAI architectures, and Nepali language processing
+- 👯 **Collaborating on:** Open-source AI and Data Science projects that benefit the community
+- 🤔 **Seeking:** Mentorship from ML/AI experts to accelerate my learning journey
+- 💬 **Ask me about:** Data Science methodologies, Mathematical modeling, or event management strategies
+- ⚡ **Fun fact:** I make data-driven decisions even when organizing competitions! 🎉
+
+## ⚙️ Tech Arsenal & Intelligence Stack
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="javascript:void(0)">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="javascript:void(0)">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="65" height="65" />
+      </a>
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <a href="javascript:void(0)">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="65" height="65" />
+      </a>
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <a href="javascript:void(0)">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="65" height="65" />
+      </a>
+      <br>Pandas
+    </td>
+    <td align="center" width="96">
+      <a href="javascript:void(0)">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="65" height="65" />
+      </a>
+      <br>NumPy
+    </td>
+    <td align="center" width="96">
+      <a href="javascript:void(0)">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="65" height="65" />
+      </a>
+      <br>Scikit-learn
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="javascript:void(0)">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="65" height="65" />
+      </a>
+      <br>Jupyter
+    </td>
+    <td align="center" width="96">
+      <a href="javascript:void(0)">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="65" height="65" />
+      </a>
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <a href="javascript:void(0)">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="javascript:void(0)">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="65" height="65" />
+      </a>
+      <br>Matplotlib
+    </td>
+    <td align="center" width="96">
+      <a href="javascript:void(0)">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="65" height="65" />
+      </a>
+      <br>OpenCV
+    </td>
+    <td align="center" width="96">
+      <a href="javascript:void(0)">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      </a>
+      <br>GitHub
+    </td>
+  </tr>
+</table>
+
+## 🧠 Developer Growth Journey
+
+```mermaid
 journey
-  title Aaditya's Learning & Growth Path
+  title Aaditya's Intelligence Evolution Path
   section Foundation
-    Mathematical Foundations: 5: Me
-    First Data Science Projects: 4: Me
-    Event Management Skills: 5: Me
-  section Growth
-    Smart Health Band Development: 5: Me
-    Bagchal AI Implementation: 5: Me
-    Nepali Spellchecker Research: 4: Me
-  section Current Focus
-    Machine Learning Mastery: 4: Me
-    Generative AI Exploration: 4: Me
-    Research Paper Writing: 3: Me
+    Discovered Data Science: 5: Me
+    Built First ML Models: 4: Me
+    Mastered Mathematical Foundations: 5: Me
+  section Innovation
+    Smart Health Band Project: 5: Me
+    Bagchal AI Game Engine: 5: Me
+    Nepali Spellchecker Development: 4: Me
+  section Research & Impact
+    Research in AI & Neuroscience: 5: Me, Future
+    Train Nepali Language Models: 4: Me, Future
+    Publish Research Papers: 5: Me, Future
   section Vision
-    MS in AI & Neuroscience: 3: Me, Future
-    Nepali Language Model Training: 4: Me, Future
-    Open Source Contributions: 5: Me, Future
-🚀 Project Observatory & Innovation Lab
-<div align="center"> <table> <tr> <td width="50%"> <h3 align="center">🏥 Smart Health Band Analytics</h3> <div align="center"> <a href="https://github.com/aadityasapkota/smart-health-band" target="_blank"> <img src="https://via.placeholder.com/400x200/1e3a8a/ffffff?text=Health+Analytics+Dashboard" alt="Health Band Project" width="100%" /> </a> <br> <p> <a href="https://github.com/aadityasapkota/smart-health-band" target="_blank"> <img src="https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/FIREBASE-FF5722?style=for-the-badge&logo=firebase&logoColor=white" /> </a> </p> <p>Real-time health monitoring with <strong>predictive analytics</strong> and personalized insights using IoT sensors.</p> </div> </td> <td width="50%"> <h3 align="center">🎯 Bagchal AI Engine</h3> <div align="center"> <a href="https://github.com/aadityasapkota/bagchal-ai" target="_blank"> <img src="https://via.placeholder.com/400x200/059669/ffffff?text=Traditional+Game+AI" alt="Bagchal AI Project" width="100%" /> </a> <br> <p> <a href="https://github.com/aadityasapkota/bagchal-ai" target="_blank"> <img src="https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/PLAY-4285F4?style=for-the-badge&logo=google-play&logoColor=white" /> </a> </p> <p>AI-powered traditional Nepali board game with <strong>minimax algorithm</strong> and cultural preservation focus.</p> </div> </td> </tr> <tr> <td width="50%"> <h3 align="center">📝 Nepali Spellchecker Research</h3> <div align="center"> <a href="https://github.com/aadityasapkota/nepali-spellchecker" target="_blank"> <img src="https://via.placeholder.com/400x200/7c3aed/ffffff?text=NLP+Research+Project" alt="Spellchecker Project" width="100%" /> </a> <br> <p> <a href="https://github.com/aadityasapkota/nepali-spellchecker" target="_blank"> <img src="https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/PAPER-DC2626?style=for-the-badge&logo=arxiv&logoColor=white" /> </a> </p> <p>Advanced NLP research for <strong>Nepali language processing</strong> with context-aware correction algorithms.</p> </div> </td> <td width="50%"> <h3 align="center">🎭 Nepali Poetic GPT</h3> <div align="center"> <a href="https://github.com/aadityasapkota/nepali-poetic-gpt" target="_blank"> <img src="https://via.placeholder.com/400x200/be185d/ffffff?text=Creative+AI+Poetry" alt="Poetic GPT Project" width="100%" /> </a> <br> <p> <a href="https://github.com/aadityasapkota/nepali-poetic-gpt" target="_blank"> <img src="https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/DEMO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> </a> </p> <p>Fine-tuned GPT model for <strong>Nepali poetry generation</strong> with rhythm, metaphor, and cultural context understanding.</p> </div> </td> </tr> </table> </div>
-🐍 Interactive GitHub Contribution Snake Animation
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aadityasapkota/aadityasapkota/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aadityasapkota/aadityasapkota/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aadityasapkota/aadityasapkota/output/github-contribution-grid-snake.svg"> </picture> </div>
-📈 GitHub Analytics & Performance Metrics
-<div align="center"> <img src="https://github-readme-streak-stats-phi-eight.vercel.app/?user=aadityasapkota&theme=tokyonight&border=7F3FBF&background=0D1117&stroke=7F3FBF&fire=FF5700&ring=5FDBFF" alt="GitHub Streak" width="49%" /> <img src="https://github-readme-stats.vercel.app/api?username=aadityasapkota&show_icons=true&theme=radical&border_color=7F3FBF&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" /> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityasapkota&layout=compact&theme=radical&border_color=7F3FBF&langs_count=10" alt="Top Languages" width="49%" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadityasapkota&theme=tokyo-night&bg_color=0D1117&color=7F3FBF&line=FF5700&point=5FDBFF&area=true&hide_border=true" alt="Activity Graph" width="49%" /> </div>
-🏆 GitHub Achievements & Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=aadityasapkota&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" /> </div>
-🧠 Intelligence Development Framework
-text
-Mathematical Foundation
+    Advanced AI Systems: 3: Me, Future
+    Open Source Contributions: 4: Me, Future
+    Mentoring Next Generation: 3: Me, Future
+```
+
+## 🚀 Intelligence Projects Observatory
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏥 Smart Health Band Analytics</h3>
+      <div align="center">  
+        <a href="https://github.com/aadityasapkota/smart-health-band" target="_blank">
+          <img src="https://raw.githubusercontent.com/aadityasapkota/aadityasapkota/main/assets/health-band-project.png" alt="Health Band Project" width="100%" />
+        </a>
+        <br>
+        <p>
+          <a href="https://github.com/aadityasapkota/smart-health-band" target="_blank">
+            <img src="https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>  
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+          </a>
+        </p>
+        <p>Real-time health monitoring with <strong>predictive analytics</strong> and personalized wellness recommendations.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎯 Bagchal AI Engine</h3>
+      <div align="center">  
+        <a href="https://github.com/aadityasapkota/bagchal-ai" target="_blank">
+          <img src="https://raw.githubusercontent.com/aadityasapkota/aadityasapkota/main/assets/bagchal-ai-project.png" alt="Bagchal AI Project" width="100%" />
+        </a>
+        <br>
+        <p>
+          <a href="https://github.com/aadityasapkota/bagchal-ai" target="_blank">
+            <img src="https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>  
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/PLAY-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+          </a>
+        </p>
+        <p>Traditional Nepali game enhanced with <strong>intelligent AI opponent</strong> using minimax and neural networks.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📝 Nepali Spellchecker Pro</h3>
+      <div align="center">  
+        <a href="https://github.com/aadityasapkota/nepali-spellchecker" target="_blank">
+          <img src="https://raw.githubusercontent.com/aadityasapkota/aadityasapkota/main/assets/spellchecker-project.png" alt="Spellchecker Project" width="100%" />
+        </a>
+        <br>
+        <p>
+          <a href="https://github.com/aadityasapkota/nepali-spellchecker" target="_blank">
+            <img src="https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>  
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/PAPER-FF6B6B?style=for-the-badge&logo=academia&logoColor=white" />
+          </a>
+        </p>
+        <p>Advanced NLP system for <strong>Nepali language processing</strong> with contextual error correction and suggestions.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎭 Nepali Poetic GPT</h3>
+      <div align="center">  
+        <a href="https://github.com/aadityasapkota/nepali-poetic-gpt" target="_blank">
+          <img src="https://raw.githubusercontent.com/aadityasapkota/aadityasapkota/main/assets/poetic-gpt-project.png" alt="Poetic GPT Project" width="100%" />
+        </a>
+        <br>
+        <p>
+          <a href="https://github.com/aadityasapkota/nepali-poetic-gpt" target="_blank">
+            <img src="https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>  
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/DEMO-9146FF?style=for-the-badge&logo=huggingface&logoColor=white" />
+          </a>
+        </p>
+        <p><strong>Fine-tuned DistilGPT2</strong> on curated Nepali poems with rhythm analysis and metaphor understanding.</p>
+      </div>
+    </td>
+  </tr>
+</table>
+</div>
+
+## 📚 Knowledge Forest & Expertise Tree
+
+```
+Intelligence Architecture
 │
-├── Statistical Analysis
-│   ├── Descriptive Statistics (★★★★★)
-│   ├── Inferential Statistics (★★★★☆)
-│   └── Bayesian Methods (★★★☆☆)
+├── Mathematical Foundation
+│   ├── Linear Algebra & Calculus (★★★★★)
+│   ├── Statistics & Probability (★★★★★)
+│   └── Optimization Theory (★★★★☆)
 │
-├── Machine Learning Mastery
-│   ├── Supervised Learning (★★★★☆)
-│   ├── Unsupervised Learning (★★★☆☆)
-│   ├── Deep Learning (★★★★☆)
-│   └── Reinforcement Learning (★★★☆☆)
+├── Machine Learning Mastery  
+│   ├── Supervised Learning (★★★★★)
+│   ├── Unsupervised Learning (★★★★☆)
+│   ├── Deep Learning & Neural Networks (★★★★☆)
+│   └── Natural Language Processing (★★★★☆)
 │
-├── Language Processing
-│   ├── Nepali NLP (★★★★★)
-│   ├── Text Mining (★★★★☆)
-│   └── Generative Models (★★★☆☆)
+├── Generative AI & LLMs
+│   ├── Transformer Architecture (★★★★☆)
+│   ├── Fine-tuning Techniques (★★★★☆)
+│   └── Prompt Engineering (★★★★★)
 │
-└── Research & Innovation
-    ├── Academic Writing (★★★★☆)
-    ├── Open Source Contribution (★★★☆☆)
-    └── Event Management (★★★★★)
-🔬 Advanced Code Expressions
-<details> <summary><strong>🧠 Neural Network Architecture for Nepali Text</strong></summary>
-python
-class NepaliTextClassifier(nn.Module):
-    def __init__(self, vocab_size, embedding_dim=128, hidden_dim=256, num_classes=10):
-        super().__init__()
-        self.embedding = nn.Embedding(vocab_size, embedding_dim)
-        self.lstm = nn.LSTM(embedding_dim, hidden_dim, batch_first=True, bidirectional=True)
-        self.attention = nn.MultiheadAttention(hidden_dim * 2, num_heads=8)
-        self.classifier = nn.Sequential(
-            nn.Linear(hidden_dim * 2, 128),
-            nn.ReLU(),
-            nn.Dropout(0.3),
-            nn.Linear(128, num_classes)
-        )
-    
-    def forward(self, x):
-        # Embedding layer for Nepali text tokens
-        embedded = self.embedding(x)  # [batch, seq_len, embedding_dim]
-        
-        # Bidirectional LSTM for context understanding
-        lstm_out, _ = self.lstm(embedded)  # [batch, seq_len, hidden_dim*2]
-        
-        # Self-attention mechanism for important feature extraction
-        attended, _ = self.attention(lstm_out, lstm_out, lstm_out)
-        
-        # Global average pooling and classification
-        pooled = attended.mean(dim=1)  # [batch, hidden_dim*2]
-        return self.classifier(pooled)
-</details> <details> <summary><strong>📊 Elegant Data Processing Pipeline</strong></summary>
-python
-def intelligent_data_pipeline(raw_data):
-    """Transform raw data into actionable insights with mathematical precision."""
-    return (raw_data
-            .pipe(lambda df: df.dropna(subset=['target_variable']))
+└── Applied Data Science
+    ├── Data Mining & Analytics (★★★★★)
+    ├── Feature Engineering (★★★★★) 
+    ├── Model Deployment (★★★★☆)
+    └── Research Methodology (★★★★☆)
+```
+
+## 🎯 Current Mission & Goals
+
+<div align="center">
+
+| 🎯 **Research Goals** | 📡 **Technical Goals** | 🧪 **Learning Goals** |
+|:---:|:---:|:---:|
+| Publish paper on Nepali Spellchecking | Deploy Health Band dashboard to Firebase | Start MS in AI + Neuroscience studies |
+| Advance Nepali NLP research | Scale ML models to production | Master advanced deep learning |
+| Contribute to open-source AI | Build real-time analytics systems | Explore quantum ML applications |
+
+</div>
+
+## 🕹️ Interactive Data Visualization
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/aadityasapkota/aadityasapkota/output/github-contribution-grid-snake.svg" alt="Data Snake Animation" />
+</div>
+
+## 📈 Impact & Growth Metrics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats-phi-eight.vercel.app/?user=aadityasapkota&theme=radical&border=7F3FBF&background=0D1117&stroke=7F3FBF&fire=FF5700&ring=5FDBFF" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aadityasapkota&show_icons=true&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=5FDBFF&icon_color=FF5700" alt="GitHub Stats" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityasapkota&layout=compact&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=5FDBFF" alt="Top Languages" width="50%" />
+</div>
+
+## 💡 Code Nuggets & Intelligent Patterns
+
+<details>
+  <summary>🧠 Elegant Data Processing Pipeline</summary>
+  
+```python
+def refine_dataset(df, target_column=None):
+    """Transform raw data into intelligence-ready format."""
+    return (df
+            # Data quality assurance
+            .pipe(lambda d: d[d['status'] == 'valid'])
+            # Feature engineering with domain knowledge
             .assign(
-                normalized_features=lambda df: StandardScaler().fit_transform(df.select_dtypes(include=[np.number])),
-                feature_importance=lambda df: calculate_mutual_information(df, target='outcome')
+                intelligence_score=lambda d: d['raw_score'] * 0.8 + d['context_bonus'],
+                normalized_features=lambda d: StandardScaler().fit_transform(d.select_dtypes(include=[np.number]))
             )
-            .query('feature_importance > 0.1')
+            # Intelligent grouping and aggregation
             .groupby('category')
-            .apply(lambda group: {
-                'samples': len(group),
-                'mean_target': group['target_variable'].mean(),
-                'confidence_interval': stats.t.interval(0.95, len(group)-1, 
-                                                       loc=group['target_variable'].mean(),
-                                                       scale=stats.sem(group['target_variable']))
-            }))
-</details> <details> <summary><strong>🔬 Mathematical Optimization for Health Analytics</strong></summary>
-python
-def optimize_health_parameters(patient_data, constraints):
-    """
-    Optimize health recommendations using mathematical programming.
-    Implements constrained optimization for personalized health insights.
-    """
-    from scipy.optimize import minimize
+            .agg({
+                'intelligence_score': ['mean', 'std', 'count'],
+                'timestamp': ['min', 'max'],
+                target_column or 'target': 'first'
+            })
+            # Statistical significance testing
+            .pipe(lambda d: d[d[('intelligence_score', 'count')] >= 30])
+            # Confidence interval calculation
+            .assign(
+                confidence_lower=lambda d: d[('intelligence_score', 'mean')] - 1.96 * d[('intelligence_score', 'std')],
+                confidence_upper=lambda d: d[('intelligence_score', 'mean')] + 1.96 * d[('intelligence_score', 'std')]
+            ))
+```
+</details>
+
+<details>
+  <summary>🤖 Smart Model Training Loop</summary>
+  
+```python
+class IntelligentTrainer:
+    """Advanced training pipeline with adaptive learning."""
     
-    def objective_function(params):
-        # Minimize health risk while maximizing wellness score
-        wellness_score = np.dot(params, patient_data['wellness_weights'])
-        risk_penalty = np.sum(np.maximum(0, params - patient_data['safe_limits'])**2)
-        return -(wellness_score - 0.5 * risk_penalty)
+    def __init__(self, model, optimizer, criterion):
+        self.model = model
+        self.optimizer = optimizer
+        self.criterion = criterion
+        self.best_score = float('-inf')
+        self.patience_counter = 0
+        
+    async def train_epoch(self, dataloader, device):
+        """Single epoch with intelligent monitoring."""
+        self.model.train()
+        total_loss = 0
+        
+        for batch_idx, (data, targets) in enumerate(dataloader):
+            # Move to device
+            data, targets = data.to(device), targets.to(device)
+            
+            # Forward pass with gradient accumulation
+            self.optimizer.zero_grad()
+            outputs = self.model(data)
+            loss = self.criterion(outputs, targets)
+            
+            # Intelligent loss scaling
+            loss = loss / self.gradient_accumulation_steps
+            loss.backward()
+            
+            # Gradient clipping for stability
+            torch.nn.utils.clip_grad_norm_(self.model.parameters(), max_norm=1.0)
+            
+            if (batch_idx + 1) % self.gradient_accumulation_steps == 0:
+                self.optimizer.step()
+                
+            total_loss += loss.item()
+            
+        return total_loss / len(dataloader)
+        
+    def should_stop_early(self, validation_score):
+        """Intelligent early stopping with patience."""
+        if validation_score > self.best_score:
+            self.best_score = validation_score
+            self.patience_counter = 0
+            return False
+        else:
+            self.patience_counter += 1
+            return self.patience_counter >= self.patience_threshold
+```
+</details>
+
+<details>
+  <summary>🎭 Nepali Text Processing Magic</summary>
+  
+```python
+def process_nepali_text(text: str) -> Dict[str, Any]:
+    """Advanced Nepali text processing with linguistic awareness."""
     
-    # Mathematical constraints for safe parameter ranges
-    bounds = [(0, patient_data['max_values'][i]) for i in range(len(params))]
+    # Devanagari normalization and cleaning
+    normalized_text = unicodedata.normalize('NFC', text)
+    cleaned_text = re.sub(r'[^\u0900-\u097F\s]', '', normalized_text)
     
-    result = minimize(
-        objective_function,
-        x0=patient_data['current_params'],
-        bounds=bounds,
-        constraints=constraints,
-        method='SLSQP'
-    )
+    # Intelligent tokenization respecting Nepali grammar
+    tokens = nepali_tokenizer.tokenize(cleaned_text)
+    
+    # Morphological analysis
+    morphological_features = []
+    for token in tokens:
+        features = {
+            'word': token,
+            'pos_tag': nepali_pos_tagger.tag(token),
+            'root': extract_root_form(token),
+            'inflection': analyze_inflection(token),
+            'semantic_class': classify_semantic_category(token)
+        }
+        morphological_features.append(features)
+    
+    # Poetic meter analysis for creative applications
+    meter_analysis = {
+        'syllable_count': count_syllables(tokens),
+        'stress_pattern': analyze_stress_pattern(tokens),
+        'rhyme_scheme': detect_rhyme_scheme(tokens),
+        'alliteration': find_alliteration(tokens)
+    }
     
     return {
-        'optimal_parameters': result.x,
-        'expected_improvement': -result.fun,
-        'convergence_status': result.success
+        'processed_text': cleaned_text,
+        'morphological_features': morphological_features,
+        'poetic_analysis': meter_analysis,
+        'readability_score': calculate_nepali_readability(tokens),
+        'sentiment_polarity': analyze_nepali_sentiment(tokens)
     }
+```
 </details>
-🌱 Core Intelligence Pillars
-<table> <tr> <td> <div align="center"> <h3>🎯 Simplicity</h3> <p><strong>Write clean, expressive code</strong></p> <p>Finding elegant mathematical solutions to complex data problems</p> </div> </td> <td> <div align="center"> <h3>🔐 Security</h3> <p><strong>Protect data and logic</strong></p> <p>Ensuring privacy and ethical AI practices in all implementations</p> </div> </td> <td> <div align="center"> <h3>🧬 Creativity</h3> <p><strong>Build useful tools for real people</strong></p> <p>Bridging cultural heritage with modern AI capabilities</p> </div> </td> </tr> </table>
-💭 Data Science Philosophy
-Mathematics is the language of patterns, Machine Learning is the art of recognition, and Data Science is the craft of turning both into human value.
 
-Every dataset tells a story. Every algorithm reveals a truth. Every model predicts a possibility. The data scientist's role is to be the translator between mathematical reality and human understanding.
+## 🌱 Core Intelligence Pillars
 
-In the intersection of traditional wisdom and modern intelligence lies the future of meaningful AI—preserving culture while advancing capability.
+<table>
+  <tr>
+    <td>
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/aadityasapkota/aadityasapkota/main/assets/simplicity.svg" width="80px" />
+        <h3>🎯 Simplicity</h3>
+        <p>Building elegant solutions that solve complex problems with mathematical precision</p>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/aadityasapkota/aadityasapkota/main/assets/security.svg" width="80px" />
+        <h3>🔐 Security</h3>
+        <p>Protecting data privacy and ensuring ethical AI practices in every model</p>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/aadityasapkota/aadityasapkota/main/assets/creativity.svg" width="80px" />
+        <h3>🧬 Creativity</h3>
+        <p>Innovating at the intersection of art, science, and intelligent systems</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
-🎯 Current Mission & Goals
-Immediate Objectives:
+## 📖 Data Science Philosophy
 
-📄 Publish research paper on Nepali Spellchecking algorithms
+> "Every dataset whispers secrets about the world. My role is to listen carefully, ask the right questions, and translate those whispers into actionable intelligence."
 
-🚀 Deploy Health Band analytics dashboard to Firebase
+> "The most powerful models are not the most complex ones, but those that capture the essence of truth with mathematical elegance and practical utility."
 
-🧠 Complete advanced ML specialization courses
+> "In the realm of artificial intelligence, we're not just building systems—we're expanding the boundaries of human understanding and capability."
 
-Long-term Vision:
+> "Data science is the art of finding patterns in chaos, extracting meaning from noise, and building bridges between human intuition and machine precision."
 
-🎓 Pursue MS in AI with focus on Neuroscience applications
+## 🔗 Connect & Collaborate
 
-🔬 Train comprehensive Nepali language models for cultural preservation
+<div align="center">
+  <a href="https://linkedin.com/in/aadityasapkota">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:aadityasapkota@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://aadityasapkota.com.np">
+    <img src="https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://twitter.com/aadityasapkota">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://kaggle.com/aadityasapkota">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+</div>
 
-🌍 Contribute to open-source AI projects with global impact
+---
 
-📚 Establish research lab for Nepali computational linguistics
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20future%20belongs%20to%20those%20who%20understand%20that%20data%20is%20the%20new%20language%20of%20intelligence&author=Aaditya%20Sapkota" alt="Quote" />
+</div>
 
-🔗 Connect & Collaborate
-<div align="center"> <a href="https://linkedin.com/in/aadityasapkota"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:aadityasapkota@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://aadityasapkota.com.np"> <img src="https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website" /> </a> <a href="https://github.com/aadityasapkota"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </div>
-Let's collaborate on:
+<div align="center">
+  <h3>🚀 Let's build something amazing together! 🚀</h3>
+  <p><em>Always learning, always growing, always curious about what intelligence can achieve.</em></p>
+</div>
 
-🤝 Open-source AI and Data Science projects
-
-🔬 Research in Nepali language processing
-
-📊 Mathematical modeling and optimization problems
-
-🎯 Event management with data-driven approaches
-
-<div align="center"> <h3>💡 "Building Intelligence, One Algorithm at a Time" 💡</h3> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,4,12,18&height=120&section=footer" width="100%"/> </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,4,12,18&height=120&section=footer" width="100%"/>
+</div>
