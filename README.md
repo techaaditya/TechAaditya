@@ -24,32 +24,23 @@
 - 🇳🇵 Focused on **Nepali NLP** and democratizing AI in local languages
 
 ---
-
-## 📊 GitHub Stats & Activity
+## 🏆 GitHub Stats & Activity
 
 <div align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=techaaditya&theme=github-compact&area=true&hide_border=true" width="98%" alt="GitHub Contribution Graph"/>
-  <br>
-
-  <!-- Main Stats & Streaks -->
-  <img src="https://github-readme-stats.vercel.app/api?username=techaaditya&show_icons=true&theme=radical&bg_color=0D1117&title_color=5FDBFF&icon_color=FF5700&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techaaditya&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="GitHub Streak"/>
-  <br>
-
-  <!-- Side-by-side Languages and Profile Summary -->
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techaaditya&layout=compact&theme=radical&hide_border=true&langs_count=8" width="380" alt="Top Languages"/>
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techaaditya&theme=github_dark" width="380" alt="Profile Summary"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=techaaditya&theme=github-compact&area=true&hide_border=true" width="98%" alt="Activity Graph"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=techaaditya&show_icons=true&theme=radical&bg_color=0D1117&title_color=5FDBFF&icon_color=FF5700&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techaaditya&theme=radical&hide_border=true" width="48%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techaaditya&layout=compact&theme=radical&hide_border=true&langs_count=10" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techaaditya&theme=github_dark" width="48%" />
+</div>
+
+---
 ## ⚡ Tech Stack & Tools
 
 <div align="center">
