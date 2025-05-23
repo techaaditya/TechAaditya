@@ -1,5 +1,4 @@
-# <div align="center">✨ Aaditya Sapkota (a.k.a. techaaditya) <br>
-Building Intelligence with Code & Data ✨</div>
+# <div align="center">✨ Aaditya Sapkota (a.k.a. techaaditya) <br> Building Intelligence with Code & Data ✨</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,4,12,18,24&height=200&section=header&text=Crafting%20Intelligence%20with%20Data&fontSize=42&fontAlignY=40" />
