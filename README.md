@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/techaaditya"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=techaaditya&style=flat&color=blueviolet"></a>
-  <a href="https://linkedin.com/in/techaaditya"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=flat" alt="LinkedIn Follow"></a>
+  <a href="https://www.linkedin.com/in/aadityasapkota/"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=flat" alt="LinkedIn Follow"></a>
 </div>
 
 ---
@@ -105,71 +105,6 @@
 
 ---
 
-
-## 🚀 Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🏥 Smart Health Band Analytics</h3>
-        <div align="center">
-          <a href="https://github.com/techaaditya/smart-health-band" target="_blank">
-            <img src="https://raw.githubusercontent.com/techaaditya/techaaditya/main/assets/health-band-project.png" alt="Health Band Project" width="100%" />
-          </a>
-          <br>
-          <a href="https://github.com/techaaditya/smart-health-band" target="_blank">
-            <img src="https://img.shields.io/badge/REPO-181717?style=flat-square&logo=github&logoColor=white" />
-          </a>
-          <p>Real-time health monitoring with <strong>predictive analytics</strong> and personalized wellness recommendations.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🎯 Bagchal AI Engine</h3>
-        <div align="center">
-          <a href="https://github.com/techaaditya/bagchal-ai" target="_blank">
-            <img src="https://raw.githubusercontent.com/techaaditya/techaaditya/main/assets/bagchal-ai-project.png" alt="Bagchal AI Project" width="100%" />
-          </a>
-          <br>
-          <a href="https://github.com/techaaditya/bagchal-ai" target="_blank">
-            <img src="https://img.shields.io/badge/REPO-181717?style=flat-square&logo=github&logoColor=white" />
-          </a>
-          <p>Traditional Nepali game enhanced with <strong>intelligent AI opponent</strong> using minimax and neural networks.</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">📝 Nepali Spellchecker Pro</h3>
-        <div align="center">
-          <a href="https://github.com/techaaditya/nepali-spellchecker" target="_blank">
-            <img src="https://raw.githubusercontent.com/techaaditya/techaaditya/main/assets/spellchecker-project.png" alt="Spellchecker Project" width="100%" />
-          </a>
-          <br>
-          <a href="https://github.com/techaaditya/nepali-spellchecker" target="_blank">
-            <img src="https://img.shields.io/badge/REPO-181717?style=flat-square&logo=github&logoColor=white" />
-          </a>
-          <p>Advanced NLP system for <strong>Nepali language processing</strong> with contextual error correction and suggestions.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🎭 Nepali Poetic GPT</h3>
-        <div align="center">
-          <a href="https://github.com/techaaditya/nepali-poetic-gpt" target="_blank">
-            <img src="https://raw.githubusercontent.com/techaaditya/techaaditya/main/assets/poetic-gpt-project.png" alt="Poetic GPT Project" width="100%" />
-          </a>
-          <br>
-          <a href="https://github.com/techaaditya/nepali-poetic-gpt" target="_blank">
-            <img src="https://img.shields.io/badge/REPO-181717?style=flat-square&logo=github&logoColor=white" />
-          </a>
-          <p><strong>Fine-tuned DistilGPT2</strong> on curated Nepali poems with rhythm analysis and metaphor understanding.</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
 ## 🐍 Interactive GitHub Contribution Animation
 
 <div align="center">
@@ -185,11 +120,10 @@
 ## 🤝 Connect With Me
 
 <div align="center" style="margin-top: 16px; margin-bottom: 16px;">
-  <a href="https://linkedin.com/in/techaaditya" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:techaaditya@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://techaaditya.com.np" target="_blank"><img src="https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website" /></a>
-  <a href="https://kaggle.com/techaaditya" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-  <a href="https://dev.to/techaaditya" target="_blank"><img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV Community" /></a>
+  <a href="https://www.linkedin.com/in/aadityasapkota/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:aadityabro1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.aadityasapkota.com.np" target="_blank"><img src="https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://kaggle.com/aadityasapkota" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
 </div>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20future%20belongs%20to%20those%20who%20understand%20that%20data%20is%20the%20new%20language%20of%20progress." />
