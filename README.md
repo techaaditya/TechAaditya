@@ -257,11 +257,6 @@ Intelligence Architecture
 
 </div>
 
-## 🕹️ Interactive Data Visualization
-
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/techaaditya/TechAaditya/output/github-contribution-grid-snake.svg" alt="Data Snake Animation" />
-</div>
 
 ## 📈 Impact & Growth Metrics
 
