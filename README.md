@@ -40,7 +40,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techaaditya&theme=github_dark" width="48%" />
 </div>
 
----
 ## ⚡ Tech Stack & Tools
 
 <table>
@@ -100,13 +99,11 @@
       <br><b>Firebase</b>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/transformers/transformers-original.svg" alt="Transformers" width="65" height="65" />
+      <img src="https://raw.githubusercontent.com/huggingface/transformers/main/docs/source/imgs/transformers_logo_name.svg" alt="Transformers" width="65" height="65" />
       <br><b>Transformers</b>
     </td>
   </tr>
 </table>
-
----
 
 ## 🚀 Featured Projects
 
