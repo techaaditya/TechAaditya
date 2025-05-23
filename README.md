@@ -25,7 +25,30 @@
 
 ---
 
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=techaaditya&theme=github-compact&area=true&hide_border=true" width="99%" alt="Activity Graph"/>
+</div>
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=techaaditya&show_icons=true&theme=radical&bg_color=0D1117&title_color=5FDBFF&icon_color=FF5700&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techaaditya&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=techaaditya&theme=radical&margin-w=10&margin-h=10&column=7&no-frame=true&no-bg=true" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techaaditya&layout=compact&theme=radical&hide_border=true&langs_count=8" width="410" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techaaditya&theme=github_dark" width="410" />
+</div>
+
+---
+
 ## ⚡ Tech Stack & Tools
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=18&duration=2000&pause=500&color=F7971E&width=600&lines=Python+%F0%9F%90%8D+%7C+PyTorch+%F0%9F%A4%96+%7C+TensorFlow+%F0%9F%A4%97+%7C+Jupyter+%F0%9F%93%9A+%7C+Pandas+%F0%9F%90%BC+%7C+Scikit-learn+%F0%9F%8C%8F+%7C+OpenCV+%F0%9F%90%9C+%7C+Transformers+%F0%9F%A7%AA+%7C+Docker+%F0%9F%9A%80+%7C+Linux+%F0%9F%90%B2+%7C+GitHub+%F0%9F%91%BB" />
+</div>
 
 <table>
   <tr>
@@ -157,7 +180,7 @@
 
 ---
 
-## 🐍 Interactive GitHub Contribution Animation
+## 🐍 Interactive GitHub Contribution Snake Animation
 
 <div align="center">
   <picture>
