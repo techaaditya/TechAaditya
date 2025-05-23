@@ -28,6 +28,7 @@
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
+
   <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=techaaditya&theme=github-compact&area=true&hide_border=true" width="98%" alt="GitHub Contribution Graph"/>
 
@@ -35,16 +36,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=techaaditya&show_icons=true&theme=radical&bg_color=0D1117&title_color=5FDBFF&icon_color=FF5700&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=techaaditya&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="GitHub Streak"/>
 
-  <!-- Profile Summary Cards & Languages -->
+  <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techaaditya&layout=compact&theme=radical&hide_border=true&langs_count=8" width="410" />
+
+  <!-- Profile Summary Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techaaditya&theme=github_dark" width="410" />
 
-  <!-- Custom Dashboard/Stats Panel Example -->
-  <br>
-  ![image1](image1)
 </div>
-
----
 
 ## ⚡ Tech Stack & Tools
 
@@ -182,7 +180,7 @@
 
 ---
 
-## 🐍 Interactive GitHub Contribution Snake Animation
+## 🐍 Interactive GitHub Contribution Animation
 
 <div align="center">
   <picture>
