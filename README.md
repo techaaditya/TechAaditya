@@ -27,10 +27,6 @@
 
 ## ⚡ Tech Stack & Tools
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=18&duration=2000&pause=500&color=F7971E&width=600&lines=Python+%F0%9F%90%8D+%7C+PyTorch+%F0%9F%A4%96+%7C+TensorFlow+%F0%9F%A4%97+%7C+Jupyter+%F0%9F%93%9A+%7C+Pandas+%F0%9F%90%BC+%7C+Scikit-learn+%F0%9F%8C%8F+%7C+OpenCV+%F0%9F%90%9C+%7C+Transformers+%F0%9F%A7%AA+%7C+Docker+%F0%9F%9A%80+%7C+Linux+%F0%9F%90%B2+%7C+GitHub+%F0%9F%91%BB" />
-</div>
-
 <table>
   <tr>
     <td align="center" width="96">
