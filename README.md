@@ -25,21 +25,20 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 🏆 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=techaaditya&theme=github-compact&area=true&hide_border=true" width="99%" alt="Activity Graph"/>
-</div>
-
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=techaaditya&show_icons=true&theme=radical&bg_color=0D1117&title_color=5FDBFF&icon_color=FF5700&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techaaditya&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=techaaditya&theme=radical&margin-w=10&margin-h=10&column=7&no-frame=true&no-bg=true" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=techaaditya&theme=github-compact&area=true&hide_border=true" width="98%" alt="Activity Graph"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techaaditya&layout=compact&theme=radical&hide_border=true&langs_count=8" width="410" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techaaditya&theme=github_dark" width="410" />
+  <img src="https://github-readme-stats.vercel.app/api?username=techaaditya&show_icons=true&theme=radical&bg_color=0D1117&title_color=5FDBFF&icon_color=FF5700&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techaaditya&theme=radical&hide_border=true" width="48%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techaaditya&layout=compact&theme=radical&hide_border=true&langs_count=10" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techaaditya&theme=github_dark" width="48%" />
 </div>
 
 ---
