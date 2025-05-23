@@ -28,7 +28,6 @@
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-
   <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=techaaditya&theme=github-compact&area=true&hide_border=true" width="98%" alt="GitHub Contribution Graph"/>
 
@@ -36,17 +35,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=techaaditya&show_icons=true&theme=radical&bg_color=0D1117&title_color=5FDBFF&icon_color=FF5700&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=techaaditya&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="GitHub Streak"/>
 
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techaaditya&layout=compact&theme=radical&hide_border=true&langs_count=8" height="160" alt="Top Languages"/>
+  <!-- Profile Summary Cards & Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techaaditya&layout=compact&theme=radical&hide_border=true&langs_count=8" width="410" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techaaditya&theme=github_dark" width="410" />
 
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=techaaditya&theme=radical&margin-w=10&margin-h=10&column=7&no-frame=true&no-bg=true" height="160" alt="GitHub Trophy"/>
-
-  <!-- Custom Dashboard/Stats Panel -->
+  <!-- Custom Dashboard/Stats Panel Example -->
   <br>
-  <img src="![image1](image1)" alt="Custom GitHub Stats Dashboard" width="95%" />
-
+  ![image1](image1)
 </div>
+
+---
 
 ## ⚡ Tech Stack & Tools
 
