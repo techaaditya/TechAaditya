@@ -109,40 +109,40 @@
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <h2>📑 <a href="https://github.com/techaaditya/smart-health-band" target="_blank">Smart Health Band Analytics</a></h2>
+      <h2>🌬️ <a href="https://github.com/techaaditya/Air-Quality-Index-AQI-Prediction-System" target="_blank">AQI Prediction System</a></h2>
       <p>
-        Real-time health monitoring with <b>predictive analytics</b> and personalized wellness recommendations.
+        Streamlit-powered app for <b>Air Quality Index prediction</b> using ML models with real-time pollutant analysis.
       </p>
-      <a href="https://github.com/techaaditya/smart-health-band" target="_blank">
+      <a href="https://github.com/techaaditya/Air-Quality-Index-AQI-Prediction-System" target="_blank">
         <img src="https://img.shields.io/badge/REPO-181717?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
     <td width="50%" align="center" valign="top">
-      <h2>🎯 <a href="https://github.com/techaaditya/bagchal-ai" target="_blank">Bagchal AI Engine</a></h2>
+      <h2>📜 <a href="https://github.com/techaaditya/poetic-llm" target="_blank">Nepali Poetry Generator</a></h2>
       <p>
-        Traditional Nepali game enhanced with <b>intelligent AI opponent</b> using minimax and neural networks.
+        <b>Fine-tuned GPT-2 model</b> for generating authentic Nepali poetry with interactive mode.
       </p>
-      <a href="https://github.com/techaaditya/bagchal-ai" target="_blank">
+      <a href="https://github.com/techaaditya/poetic-llm" target="_blank">
         <img src="https://img.shields.io/badge/REPO-181717?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <h2>📝 <a href="https://github.com/techaaditya/nepali-spellchecker" target="_blank">Nepali Spellchecker Pro</a></h2>
+      <h2>💻 <a href="https://github.com/techaaditya/NextGen-Code-Generator" target="_blank">NextGen Code Generator</a></h2>
       <p>
-        Advanced NLP system for <b>Nepali language processing</b> with contextual error correction and suggestions.
+        AI-powered <b>code generation tool</b> supporting portfolios, API endpoints, UI components, and more.
       </p>
-      <a href="https://github.com/techaaditya/nepali-spellchecker" target="_blank">
+      <a href="https://github.com/techaaditya/NextGen-Code-Generator" target="_blank">
         <img src="https://img.shields.io/badge/REPO-181717?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
     <td width="50%" align="center" valign="top">
-      <h2>🎭 <a href="https://github.com/techaaditya/nepali-poetic-gpt" target="_blank">Nepali Poetic GPT</a></h2>
+      <h2>📰 <a href="https://github.com/techaaditya/Nepali-News-Analytics_R-programming" target="_blank">Nepali News Analytics</a></h2>
       <p>
-        <b>Fine-tuned DistilGPT2</b> on curated Nepali poems with rhythm analysis and metaphor understanding.
+        <b>R-based NLP analytics</b> on 50k+ Nepali news articles with classification and text mining.
       </p>
-      <a href="https://github.com/techaaditya/nepali-poetic-gpt" target="_blank">
+      <a href="https://github.com/techaaditya/Nepali-News-Analytics_R-programming" target="_blank">
         <img src="https://img.shields.io/badge/REPO-181717?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
