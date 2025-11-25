@@ -1,102 +1,63 @@
-<!-- Header Banner -->
+# Aaditya Sapkota (TechAaditya) — AI Researcher & Data Scientist
+
+<!-- HEADER: capsule-render (reliable HTTPS) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,100:E0C3FC&height=200&section=header&text=Aaditya%20Sapkota&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Researcher%20|%20Data%20Scientist%20|%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,100:E0C3FC&height=180&section=header&text=Aaditya%20Sapkota&fontSize=44&fontColor=fff&animation=fadeIn&fontAlignY=34&desc=AI%20Researcher%20%7C%20Data%20Scientist%20%7C%20Open%20Source%20Enthusiast&descSize=14" width="100%" alt="Aaditya Sapkota - header"/>
 </div>
 
-<!-- Typing Animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+with+Data+%F0%9F%A7%A0;Passionate+about+Nepali+NLP+%F0%9F%87%B3%F0%9F%87%B5;Bridging+Theory+and+Real-World+Impact+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%92%BB" alt="Typing SVG" />
+  <!-- Typing animation (Demolab) -->
+  <a href="https://git.io/typing-svg" title="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&width=760&lines=Building+Intelligent+Systems+with+Data;Nepali+NLP+%7C+Open+Source+%7C+ML+Research" alt="Typing animated text"/>
   </a>
 </p>
 
-<!-- Profile Badges -->
 <p align="center">
-  <a href="https://github.com/techaaditya?tab=followers">
-    <img src="https://img.shields.io/github/followers/techaaditya?label=Followers&style=social" alt="GitHub Followers"/>
-  </a>
-  &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=techaaditya&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views"/>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/aadityasapkota/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:aadityabro1@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.aadityasapkota.com.np">
-    <img src="https://img.shields.io/badge/-Website-000?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
+  <!-- Social badges (shields.io, https) -->
+  <a href="https://github.com/techaaditya?tab=followers"><img src="https://img.shields.io/github/followers/techaaditya?label=Followers&style=social" alt="GitHub Followers"/></a>
+  <img src="https://img.shields.io/badge/Profile-Views-blueviolet?style=flat-square" alt="Profile Views (use ghpvc when enabled)"/>
+  <a href="https://www.linkedin.com/in/aadityasapkota/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:aadityabro1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.aadityasapkota.com.np"><img src="https://img.shields.io/badge/Website-Portfolio-000000?style=flat-square&logo=about.me&logoColor=white" alt="Website"/></a>
 </p>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> About Me
+## 👋 About Me (short)
+I build ML systems that solve real problems — with a focus on Nepali NLP, applied research, and open-source tools. I love bridging mathematical rigor and production-ready code.
 
-```python
-class AadityaSapkota:
-    def __init__(self):
-        self.name = "Aaditya Sapkota"
-        self.role = "AI Researcher & Data Scientist"
-        self.location = "Nepal 🇳🇵"
-        self.languages = ["Python", "R", "JavaScript", "SQL"]
-        
-    def current_focus(self):
-        return [
-            "🧠 Artificial Intelligence & Deep Learning",
-            "📊 Data Science & Analytics",
-            "🗣️ Natural Language Processing (Nepali NLP)",
-            "🔬 Machine Learning Research",
-            "🌐 Open Source Development"
-        ]
-    
-    def goals_2025(self):
-        return [
-            "Contribute to major open-source AI projects",
-            "Publish research in Nepali NLP",
-            "Build impactful AI tools for local communities"
-        ]
-    
-    def fun_fact(self):
-        return "I believe data tells stories that can change the world 📖✨"
-
-me = AadityaSapkota()
-```
+- Location: Nepal 🇳🇵
+- Role: AI Researcher • Data Scientist
+- Interests: NLP (Nepali), Deep Learning, Data Engineering, MLOps, Open Source
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack (reliable, HTTPS badges)
+Below uses shields.io badges (highly reliable). If any image fails to load on your side, the text link below it will still work.
 
-### 🤖 AI/ML & Data Science
-<p align="left">
+### AI / ML
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge" alt="HuggingFace"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFB86B?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
 </p>
 
-### 📊 Data & Analytics
-<p align="left">
+### Data & Analytics
+<p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
-### 🔧 Tools & Platforms
-<p align="left">
+### Tools & Platforms
+<p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
 </p>
@@ -104,164 +65,78 @@ me = AadityaSapkota()
 ---
 
 ## 🚀 Featured Projects
+(Click to explore — badges below are shields.io and always HTTPS.)
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🌬️ AQI Prediction System</h3>
-      <p align="center">
-        <a href="https://github.com/techaaditya/Air-Quality-Index-AQI-Prediction-System">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
-        </a>
-      </p>
-      <p align="center">Real-time Air Quality Index prediction using ML models with Streamlit interface for pollutant analysis</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📜 Nepali Poetry Generator</h3>
-      <p align="center">
-        <a href="https://github.com/techaaditya/poetic-llm">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
-        </a>
-      </p>
-      <p align="center">Fine-tuned GPT-2 model for generating authentic Nepali poetry with interactive CLI mode</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-Transformers-FFD21E?style=flat-square"/>
-        <img src="https://img.shields.io/badge/-NLP-4B8BBE?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">💻 NextGen Code Generator</h3>
-      <p align="center">
-        <a href="https://github.com/techaaditya/NextGen-Code-Generator">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
-        </a>
-      </p>
-      <p align="center">AI-powered code generation tool for portfolios, API endpoints, and UI components</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📰 Nepali News Analytics</h3>
-      <p align="center">
-        <a href="https://github.com/techaaditya/Nepali-News-Analytics_R-programming">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
-        </a>
-      </p>
-      <p align="center">NLP analytics on 50k+ Nepali news articles with classification and text mining</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-NLP-4B8BBE?style=flat-square"/>
-        <img src="https://img.shields.io/badge/-Text_Mining-6DB33F?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-</table>
+- 🌬️ AQI Prediction System — Real-time AQI forecasting and pollutant analytics  
+  https://github.com/techaaditya/Air-Quality-Index-AQI-Prediction-System
+
+- 📜 Nepali Poetry Generator — Fine-tuned GPT-2 for Nepali poetry  
+  https://github.com/techaaditya/poetic-llm
+
+- 💻 NextGen Code Generator — AI-driven code scaffolding & components  
+  https://github.com/techaaditya/NextGen-Code-Generator
+
+- 📰 Nepali News Analytics — NLP & text-mining on 50k+ Nepali articles  
+  https://github.com/techaaditya/Nepali-News-Analytics_R-programming
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Stats (dynamic images with reliable endpoints + text fallback)
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=techaaditya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=techaaditya&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd" alt="GitHub Streak"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=techaaditya&theme=github-compact&area=true&hide_border=true" width="98%" alt="Activity Graph"/>
+</div>
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techaaditya&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8" alt="Top Languages"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=techaaditya&show_icons=true&theme=radical&bg_color=0D1117&title_color=5FDBFF&icon_color=FF5700&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techaaditya&theme=radical&hide_border=true" width="48%"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=techaaditya&custom_title=Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=70a5fd&area_color=38bdae&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techaaditya/TechAaditya/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techaaditya/TechAaditya/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/techaaditya/TechAaditya/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techaaditya&layout=compact&theme=radical&hide_border=true&langs_count=10" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techaaditya&theme=github_dark" width="48%" />
+</div>
 
 ---
 
-## 🏆 Highlights & Focus Areas
+## 🐍 Contribution Graph & Snake
+Contribution visuals are generated from your repo output files or third-party services. If you see broken images:
+1. Confirm the "output" folder and SVGs exist in this repository (for the snake animation).
+2. Confirm the raw file URLs are accessible publicly.
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="40"/>
-      <br><strong>Nepali NLP</strong>
-      <br><sub>Democratizing AI for the Nepali language through open-source tools</sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="40"/>
-      <br><strong>ML Research</strong>
-      <br><sub>Bridging academic research with production-ready implementations</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" width="40"/>
-      <br><strong>Open Source</strong>
-      <br><sub>Contributing to and building tools that empower developers</sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="40"/>
-      <br><strong>Education</strong>
-      <br><sub>Sharing knowledge through projects and mentorship</sub>
-    </td>
-  </tr>
-</table>
+Current embed (should render if the files exist and are public):
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techaaditya/TechAaditya/main/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techaaditya/TechAaditya/main/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/techaaditya/TechAaditya/main/output/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
+</p>
+
+If the image shows as broken, open this raw URL in the browser to debug:
+https://raw.githubusercontent.com/techaaditya/TechAaditya/main/output/github-contribution-grid-snake.svg
 
 ---
 
-## 🤝 Let's Connect
+## ✨ Make icons animated (what you can do right now — Option A)
+GitHub README rendering does not run JS, so animations must be embedded as animated GIFs or animated SVGs. Since you chose Option A (no repo file changes), here are immediate, paste-ready options that work without adding repo assets:
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aadityasapkota/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:aadityabro1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  &nbsp;
-  <a href="https://www.aadityasapkota.com.np">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-  &nbsp;
-  <a href="https://kaggle.com/aadityasapkota">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
-</p>
+1. Use shield-style animated GIFs from reliable CDNs (example placeholders below). Replace these with your preferred animated GIF URLs:
+   - Animated "Python" GIF (example):
+     <img src="https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif" alt="Python Animated" width="64" />
+   - Animated "Data" GIF:
+     <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Data Animated" width="64" />
 
----
+   Notes:
+   - The two GIF links above are public examples (Giphy). You can swap them for any animated GIF hosted on a reliable CDN (Giphy, tenor, jsDelivr, raw.githubusercontent.com if you add assets later).
+   - If any GIFs/GIF endpoints are blocked in your region, they will appear broken. Best long-term is to host small GIFs/SVGs in your repo under `assets/animated-icons/` (I can help with a PR later).
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20future%20belongs%20to%20those%20who%20understand%20that%20data%20is%20the%20new%20language%20of%20progress.&author=Aaditya%20Sapkota" alt="Quote"/>
-</p>
+2. Use animated SVG generators for simple motion:
+   - capsule-render (used above) supports animated headers.
+   - readme-typing-svg provides animated text lines.
 
-<p align="center">
-  <strong>💡 If you find my work helpful, consider giving a ⭐ to my repositories!</strong>
-</p>
+3. Progressive enhancement pattern (recommended):
+   - Keep shields.io badges (fast + reliable).
+   - Add animated GIF/SVG next to badges as "decorative" icons. Provide alt text and a text fallback directly under the image (so users can still read content if images fail).
 
-<p align="center">
-  <em>Always learning, always growing, always curious about what intelligence can achieve.</em>
-</p>
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,100:E0C3FC&height=120&section=footer" width="100%"/>
+Example snippet you can paste where you want animated icons (uses public GIFs as demo — replace URLs as desired):
